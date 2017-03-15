@@ -24,7 +24,7 @@
 				    	<span class="glyphicon glyphicon-filter"></span>Filtros
 				    </div>
 				    <div class="panel-body">
-				    	<label for="calle" class="col-sm-4">Calle</label>
+				    	<label for="calle" class="col-sm-4">Callesss</label>
 			    		<input type="text" class="col-sm-8" id="calle" placeholder="Ingrese una calle" value="0">
 			    		<label for="altura" class="col-sm-4">Altura</label>
 			    		<input type="text" class="col-sm-8" id="altura" placeholder="Ingrese un nro de calle" value="0">
